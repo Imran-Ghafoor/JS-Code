@@ -1,3 +1,4 @@
+//Js Variable
 const accountId = 14456;
 let accountEmail = "imran112@gmail.com";
 var accountPassword = "45678";
