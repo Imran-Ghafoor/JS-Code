@@ -1,2 +1,2 @@
 # JS-Code
-A code repo for Javascript learning
+A code repo for Investing JavaScript
