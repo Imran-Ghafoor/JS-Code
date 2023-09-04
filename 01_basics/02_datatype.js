@@ -10,6 +10,20 @@ console.log(3 +
     let name = "khan"
     let age = 20
     let isLogedIn = false/true
+//primmitive data types
 
+    //number => 2 to the power of 34
+    // bigint => use for big number
+    // string => ""
+    // boolean => true / false
+    // null => standalone value
+    // undefined => not defined value
+    // symbol => unique / uniqueness value find
+
+
+    // object
+
+    console.log(typeof undefined); // undefined
+    console.log(typeof null); // output => object 
     
     
