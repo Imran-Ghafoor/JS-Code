@@ -5,7 +5,7 @@ var accountPassword = "45678";
 accountCity = "Lahore";
 let accountState;
 
-//accountId = 12345 / not allowed
+//accountId = 12345 / not allowed / const not update
 
 accountEmail = "khan123@gmail.com"
 accountPassword= "786786"
