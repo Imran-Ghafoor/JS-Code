@@ -14,6 +14,19 @@ const anotherId = Symbol('123')
 
 console.log(id === anotherId);
 
+
 //Renfrence (Non Primitive)
 
 // Array, Objects, Function
+
+const myArray = [Imran, Khan, Ali]   //Array
+
+let myObject{
+  name: imran,
+    age: 22
+  city: lhr
+}
+
+const myFunction = function (){
+  console.log('Hello')
+}
