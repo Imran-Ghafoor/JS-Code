@@ -9,9 +9,10 @@ const isLoggedIn = false
 const outsideTemp = null
 let userEmail;
 
-const id = symbol('123)    // symbol use in js liberary or framework for uniqueness
+const id = symbol('123')    // symbol use in js liberary or framework for uniqueness
 const anotherId = Symbol('123')
 
+console.log(id === anotherId);
 
 //Renfrence (Non Primitive)
 
