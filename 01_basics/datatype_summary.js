@@ -30,3 +30,5 @@ let myObject{
 const myFunction = function (){
   console.log('Hello')
 }
+
+console.log(typeof myArray);
