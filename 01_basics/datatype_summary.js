@@ -32,3 +32,16 @@ const myFunction = function (){
 }
 
 console.log(typeof myArray);
+
+
+// ***************************************************************//
+
+// Stack (Primitive)  Heap (non-primitive)
+
+let myName = "Imran"
+
+let anotheName = "imran kahan"
+anotherName = "khan"
+
+console.log(myName);
+console.log(anotherNmae);
