@@ -15,9 +15,9 @@ const anotherId = Symbol('123')
 console.log(id === anotherId);
 
 
-//Renfrence (Non Primitive)
+//Renfrence (Non Primitive)   // non-premitive returns always Function datatype
 
-// Array, Objects, Function
+// Array, Objects, Function    // AND only function returns Object datatype
 
 const myArray = [Imran, Khan, Ali]   //Array
 
